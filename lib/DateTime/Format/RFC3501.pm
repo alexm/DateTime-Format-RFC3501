@@ -1,3 +1,6 @@
+use strict;
+use warnings;
+
 package DateTime::Format::RFC3501;
 # ABSTRACT: Parse and format RFC3501 datetime strings
 
@@ -20,9 +23,6 @@ It can be used to parse this format in order to create the
 appropriate objects.
 
 =cut
-
-use strict;
-use warnings;
 
 use Carp;
 use DateTime();
