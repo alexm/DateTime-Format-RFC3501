@@ -157,26 +157,4 @@ You can find documentation for this module with the perldoc command.
 
     perldoc DateTime::Format::RFC3501
 
-You can also look for information at:
-
-=over 4
-
-=item * RT: CPAN's request tracker
-
-L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=DateTime-Format-RFC3501>
-
-=item * AnnoCPAN: Annotated CPAN documentation
-
-L<http://annocpan.org/dist/DateTime-Format-RFC3501>
-
-=item * CPAN Ratings
-
-L<http://cpanratings.perl.org/d/DateTime-Format-RFC3501>
-
-=item * Search CPAN
-
-L<http://search.cpan.org/dist/DateTime-Format-RFC3501>
-
-=back
-
 =cut
