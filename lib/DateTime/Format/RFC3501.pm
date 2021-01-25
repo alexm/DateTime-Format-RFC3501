@@ -145,10 +145,9 @@ This module was heavily inspired by L<DateTime::Format::RFC3339>.
 
 =head1 BUGS
 
-Please report any bugs or feature requests to
-C<bug-datetime-format-rfc3501 at rt.cpan.org>,
-or through the web interface at
-L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=DateTime-Format-RFC3501>.
+Please report any bugs or feature requests
+through the web interface at
+L<https://github.com/alexm/DateTime-Format-RFC3501/issues>.
 I will be notified, and then you'll automatically be notified of progress
 on your bug as I make changes.
 
